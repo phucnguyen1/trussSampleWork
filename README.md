@@ -66,12 +66,14 @@ and time format variants you will need to handle.
 
 # My Comments:
 
+* I've wrote and build this project using Java 8. I use Java API without using any other third party API.
+
 # How to build and run
-* I've wrote and build this project using Java 8.
-* Need to install jre ver 1.8 
+* Need to use JDK 1.8 to edit and compile the code
+* Need to install jre ver 1.8 to run on your computer
 * command line to run the code within this folder:
 ----
-java Normalize <input.csv> <output.csv>
+  java Normalize <input.csv> <output.csv>
 ----
 
 ## Assumtion:
@@ -80,7 +82,7 @@ java Normalize <input.csv> <output.csv>
  
 ## Tasks to do:
 1. Need to work on TODO items in the project to complete the functions of the tool
-2. Change to using third party API if I can because it may more time for me.
+2. Change to using third party API if I can because it will save more time.
 3. There will some improvement on some functionalities.
 
 ## Final Thoughts:
