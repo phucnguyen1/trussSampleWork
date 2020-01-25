@@ -63,3 +63,25 @@ warning to `stderr` and drop the row from your output.
 
 You can assume that the sample data we provide will contain all date
 and time format variants you will need to handle.
+
+# My Comments:
+
+# How to build and run
+* I've wrote and build this project using Java 8.
+* Need to install jre ver 1.8 
+* command line to run the code within this folder:
+----
+java Normalize <input.csv> <output.csv>
+----
+
+## Assumtion:
+ 1. The csv file will always be in the given format.
+ 2. Input document is in UTF-8 and Time zone is US/Pacific
+ 
+## Tasks to do:
+1. Need to work on TODO items in the project to complete the functions of the tool
+2. Change to using third party API if I can because it may more time for me.
+3. There will some improvement on some functionalities.
+
+## Final Thoughts:
+This is very interesting project from Truss team. I wish I could do better and complete the project. It has been a busy week for me. However, I managed to put effort on this project and I am very happy. 
